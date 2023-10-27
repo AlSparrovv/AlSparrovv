@@ -1,4 +1,4 @@
-### Currently making some random game or something, idunno ¯\_(ツ)_/¯
+### Currently making some random game or something, idunno  ¯\_(ツ)_/¯
 
 <!--
 **AlSparrovv/AlSparrovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
